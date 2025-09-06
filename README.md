@@ -15,7 +15,11 @@ A colorful Onam Pookalam design with concentric rings and a bright floral center
 
 ### Prerequisites
 - Python 3
-- Libraries: matplotlib, numpy.
-  pip install matplotlib numpy
+- Libraries: matplotlib, numpy
+
+Install the libraries:
+```bash
+pip install matplotlib numpy
+
 ## Run the Script
 python pookalam.py
